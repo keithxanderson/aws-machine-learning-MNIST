@@ -1,6 +1,6 @@
 # aws-machine-learning-MNIST
 
-Using Amazon Machine Learning to explore the Kaggle MNIST dataset
+Using Amazon Machine Learning to explore the Kaggle MNIST dataset.  This entire process will cost you a few dollars!!  See Amazon's Machine Learning pricing for more information - https://aws.amazon.com/aml/pricing/.
 
 ## How to use this code
 

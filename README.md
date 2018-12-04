@@ -2,6 +2,8 @@
 
 Using Amazon Machine Learning to explore the Kaggle MNIST dataset.  This entire process will cost you a few dollars!!  See Amazon's Machine Learning pricing for more information - https://aws.amazon.com/aml/pricing/.
 
+Please read my blog entry that talks about this code -> https://www.pebblesandweeds.com/2018/12/03/mnist-via-amazon-machine-learning-apis/
+
 ## How to use this code
 
 1) Download the Kaggle versions of the training data and the test data.  We are using the Kaggle version because it is already split for testing, feel free to download MNIST elsewhere but it may take a few edits to the schema files
